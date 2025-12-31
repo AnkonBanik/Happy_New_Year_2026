@@ -84,7 +84,7 @@ lottie_fireworks = load_lottieurl(
 )
 
 st.title("🎆 Happy New Year 2026!")
-st.write("Welcome to the interactive 2026 Celebration Showcase!")
+st.write("Welcome to the interactive 2026 Celebration!")
 
 # Celebration effects
 confetti(emojis=["✨", "🎊", "🥂", "🎆", "⭐"])
